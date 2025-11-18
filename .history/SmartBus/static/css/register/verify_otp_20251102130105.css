@@ -6,8 +6,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url("/static/images/background.jpg") no-repeat center center;
-background-size: cover;
+  background: linear-gradient(135deg, #0066CC, #00C853);
   min-height: 100vh;
   display: flex;
   justify-content: center;
